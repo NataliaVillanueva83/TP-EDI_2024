@@ -22,4 +22,4 @@ function generatePallet(count) {
     return pallet;
 }
 
-console.log(generatePallet(7));
+console.warn(generatePallet(7));
