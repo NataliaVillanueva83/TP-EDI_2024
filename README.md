@@ -22,4 +22,4 @@ function generatePallet(count) {
     return pallet;
 }
 //Imprimo paleta
-console.log(generatePallet(7));
+console.log(generatePallet(13));
